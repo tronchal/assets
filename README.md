@@ -1,2 +1,3 @@
-# assets
-Public assets
+# Troncho Assets
+
+Public assets.
